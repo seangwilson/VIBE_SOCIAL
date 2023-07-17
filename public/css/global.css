@@ -2,6 +2,13 @@
     --clr--primary: #44883e;
     --clr--primary-dark: #215732;
     --clr--primary-light: #6cc24a;
+    --clr--primary-faint: #c5d9bd;
     --clr--base-dark: #333333;
-    --clr--border: #dedede;
+    --clr--border: #f0f0f0;
+
+    --spacing: 15px;
+}
+
+* {
+    outline: none;
 }
